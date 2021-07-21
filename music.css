@@ -35,3 +35,13 @@
     width: 100%;
     height: 95%;
 }
+.introductiondiv{
+    text-align: center;
+    align-items: center;
+    margin-left: 20%;
+    margin-top: 5%;
+    width: 60%;
+}
+.introductionp{
+    width: 100%;
+}
