@@ -23,7 +23,7 @@
     margin: 0 auto;
 }
 .circle1{
-    background:url(/character/shiroha1.png);
+    background-image:url(/character/shiroha1.png);
     background-size: cover;
     display: flex;
     font-size: 50px;
@@ -40,7 +40,7 @@
     text-decoration:none;
 }
 .circle2{
-    background:url(/character/Ao\ 1.png);
+    background-image:url(/character/Ao\ 1.png);
     background-size: cover;
     display: flex;
     font-size: 50px;
@@ -57,7 +57,7 @@
     text-decoration:none;
 }
 .circle3{
-    background:url(/character/kamome1.jpg);
+    background-image:url(/character/kamome1.jpg);
     background-size: cover;
     display: flex;
     font-size: 50px;
@@ -74,7 +74,7 @@
     text-decoration:none;
 }
 .circle4{
-    background:url(/character/tsumugi1.jpg);
+    background-image:url(/character/tsumugi1.jpg);
     background-size: cover;
     display: flex;
     font-size: 50px;
@@ -91,7 +91,7 @@
     text-decoration:none;
 }
 .circle5{
-    background:url(/character/nomiki1.png);
+    background-image:url(/character/nomiki1.png);
     background-size: cover;
     display: flex;
     font-size: 50px;
@@ -108,7 +108,7 @@
     text-decoration:none;
 }
 .circle6{
-    background:url(/character/shizuku1.jpg);
+    background-image:url(/character/shizuku1.jpg);
     background-size: cover;
     display: flex;
     font-size: 50px;
@@ -125,7 +125,7 @@
     text-decoration:none;
 }
 .circle7{
-    background:url(/character/umi1.png);
+    background-image:url(/character/umi1.png);
     background-size: cover;
     display: flex;
     font-size: 50px;
@@ -142,7 +142,7 @@
     text-decoration:none;
 }
 .circle8{
-    background:url(/character/shiki1.png);
+    background-image:url(/character/shiki1.png);
     background-size: cover;
     display: flex;
     font-size: 50px;
@@ -166,39 +166,39 @@
     margin-top: 40px;
 }
 .circle1:hover{
-    background:url(/character/shiroha2.png);
+    background-image:url(/character/shiroha2.png);
     display: block;
 }
 .circle2:hover{
-    background:url(/character/Ao2.png);
+    background-image:url(/character/Ao2.png);
     display: block;
 }
 .circle3:hover{
-    background:url(/character/kamome2.jpg);
+    background-image:url(/character/kamome2.jpg);
     display: block;
 }
 .circle4:hover{
-    background:url(/character/tsumugi2.jpg);
+    background-image:url(/character/tsumugi2.jpg);
     display: block;
 }
 
 .circle5:hover{
-    background:url(/character/nomiki2.png);
+    background-image:url(/character/nomiki2.png);
     display: block;
 }
 
 .circle6:hover{
-    background:url(/character/shizuku2.jpg);
+    background-image:url(/character/shizuku2.jpg);
     display: block;
 }
 
 .circle7:hover{
-    background:url(/character/umi2.png);
+    background-image:url(/character/umi2.png);
     display: block;
 }
 
 .circle8:hover{
-    background:url(/character/shiki2.jpg);
+    background-image:url(/character/shiki2.jpg);
     display: block;
 }
 
