@@ -201,4 +201,7 @@
     background-image:url(/character/shiki2.jpg);
     display: block;
 }
+.width40percent{
+    width: 60%;
+}
 
