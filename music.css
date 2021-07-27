@@ -1,3 +1,4 @@
+
 .top{
     position: fixed;
     border-style: solid;
@@ -11,7 +12,9 @@
     margin: 0 auto;
     Display: flex;
     margin-left: -10px;
-   
+    z-index: 1;
+    font-size: 1vh;
+    
 }
 .center1{
     Display: flex;
@@ -22,6 +25,9 @@
     color: black;
 
 }
+.word{
+    font-size: 20px;
+}
 .op{
     margin-left: 20%;
     margin-top: 5%;
@@ -29,7 +35,11 @@
     width: 60%;
     text-align: center;
     align-items: center;
-    
+
+}
+.h1{
+    font-family: fantasy;
+    color: black;
 }
 .musicop{
     width: 98%;
@@ -43,7 +53,7 @@
     width: 60%;
     text-align: center;
     align-items: center;
-    
+    font-family: fantasy;
 }
 .musiced{
     width: 98%;
@@ -57,11 +67,15 @@
     margin-top: 5%;
     width: 60%;
     word-wrap:break-word;
-
+    
 }
-
 .out{
     display: block;
+    width: 100%;
+}
+.character-music-div{
+
+    text-align: center;
 }
 @media screen and (max-width:550px){
     .musicop{
@@ -162,6 +176,8 @@
 .h2{
     width: 20%;
     margin-left: 40%;
+    font-family: fantasy;
+    color: black;
 }
 .midle2{
     margin-left: 5%;
@@ -180,8 +196,12 @@
 .sc1{
     height: 500px;
 }
+.song1
+{   
+    width:550px;
+}
 .cdpic{
-    width: 550px;
+    width: 90%;
     height: 450px;
     object-fit: cover;
 }
@@ -191,16 +211,28 @@
     width: 45%;
     margin-left:26.5% ;
 }
-.bot{
-    position: relative;
-    border-style: solid;
-    border-width: 0.05px;
-    border-color: rgb(0, 0, 0,0.1);
-    background-color: white;
+.backgray{
+    font-weight: bold;
+    font-size: larger;
     width: 100%;
-    align-items: center;
     text-align: center;
-    color: black;
-    margin: 0 auto;
-    Display: flex;
+    display: flex;
+    align-items: center;
+    background-color: rgb(219, 219, 219);
+}
+.bg{
+    background-image: url(/musicback/background.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+    padding-top: 5%;
+    z-index: -9999;
+    opacity: 1;
+}
+.eight{
+    width: 80%;
+    margin-left: 10%;
+    background-color: rgb(255, 255, 255,0.5);
 }

@@ -1,0 +1,162 @@
+.top{
+    position: fixed;
+    border-style: solid;
+    border-width: 0.05px;
+    border-color: rgb(0, 0, 0,0.1);
+    background-color: white;
+    width: 100%;
+    text-align: center;
+    top: 0%;
+    color: black;
+    margin: 0 auto;
+    Display: flex;
+    margin-left: -10px;
+    font-size: 1vh;
+   
+}
+.center1{
+    Display: flex;
+    margin: 0 auto;
+}
+.word1{
+    text-decoration:none;
+    color: black;
+
+}
+.word{
+    font-size: 20px;
+}
+.staff{
+    margin-left: 5%;
+    width: 90%;
+    text-align: center;
+    align-items: center;
+}
+.other{
+    margin-left: 5%;
+    margin-top: 50px;
+    width: 90%;
+    align-items: center;
+    text-align: center;
+    position: relative;
+}
+.otherpic{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 0%;
+    height: 450px;
+    object-fit: cover;
+}
+.sc1{
+    height: 500px;
+}
+.sl2{
+    margin-top: 30px;
+    margin-left: 2.5%;
+    width: 95%;
+    height: 550px;
+}
+.backgray{
+    font-weight: bold;
+    font-size: larger;
+    background-color: rgb(128, 128, 128,0.2);
+    width: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+}
+.bg{
+    background-image: url(/staffback/staff.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+    padding-top: 5%;
+    z-index: -9999;
+    opacity: 1;
+    margin-bottom: -43px;
+}
+.out{
+    width: 80%;
+    margin-left: 10%;
+    background-color: rgba(230, 230, 230, 0.8);
+}
+.painting{
+    width: 100%;
+}
+.paintingtab{
+    width: 100%;
+}
+.paintingpic{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.paintingtd{
+    width: 20%;
+    height: 300px;
+    border-width: 10px;
+}
+
+.scripttab{
+    width: 100%;
+}
+.scripttd{
+    width: 50%;
+    height: 300px;
+    border-width: 10px;
+}
+.scriptpic{
+    width: 100%;
+    height: 300px;
+    object-fit: contain;
+}
+.musictab{
+    width: 100%;
+}
+.musictd{
+    width: 25%;
+    height: 300px;
+    border-width: 10px;
+}
+.musicpic{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+.derivative{
+    width: 90%;
+    margin-left: 5%;
+}
+.derivativeh{
+    text-align: center;
+    align-items: center;
+}
+.keyh{
+    text-align: center;
+    align-items: center;
+}
+.key{
+    width: 90%;
+    margin-left: 5%;
+}
+.keytab{
+    width: 100%;
+}
+.keyth{
+    width: 25%;
+    height: 300px;
+    border-width: 10px;
+}
+.keypic{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+.staffpic{
+    height: 20%;
+    width: auto;
+}

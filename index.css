@@ -1,0 +1,80 @@
+.top{
+    position: fixed;
+    border-style: solid;
+    border-width: 0.05px;
+    border-color: rgb(0, 0, 0,0.1);
+    background-color: white;
+    width: 100%;
+    flex-wrap: wrap ;
+    text-align: center;
+    top: 0%;
+    color: black;
+    margin: 0 auto;
+    Display: flex;
+    margin-left: -10px;
+    font-size: 1vh;
+    white-space:nowrap;
+}
+
+.word1{
+    text-decoration:none;
+    color: black;
+    font-size: 1em;
+}
+.center1{
+    Display: flex;
+    margin: 0 auto;
+}
+.center2{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.picture{
+    margin-left: 20%;
+    width: 60%;
+    height: 100%;
+    margin-bottom: 3%;
+}
+.backtest{
+    background-color: rgb(0, 217, 255,0.2);
+}
+h1{
+    text-align: center;
+}
+.word{
+    margin: 2% 20%;
+    font-size: 20px;
+    text-align: center;
+}
+.backgray{
+    font-weight: bold;
+    font-size: larger;
+    background-color: rgb(128, 128, 128,0.2);
+    width: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin-bottom: -20px;
+}
+.bg{
+    background-image: url(/firsrback/background.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+    padding-top: 5%;
+    z-index: -9999;
+    opacity: 1;
+}
+.picture1{
+    width: 100%;
+    height: 100%;
+    margin-bottom: 3%;
+}
+.backwhite{
+    height: 120%;
+    width: 60%;
+    margin-left: 20%;
+    background-color: rgb(255, 255, 255,0.7);
+}

@@ -1,0 +1,293 @@
+.top{
+    position: fixed;
+    border-style: solid;
+    border-width: 0.05px;
+    border-color: rgb(0, 0, 0,0.1);
+    background-color: white;
+    width: 100%;
+    text-align: center;
+    top: 0%;
+    color: black;
+    margin: 0 auto;
+    Display: flex;
+    margin-left: 0px;
+    font-size: 1vh;
+}
+.word1{
+    text-decoration:none;
+    color: black;
+
+}
+.center1{
+    Display: flex;
+    margin: 0 auto;
+}
+.bg{
+    background-image: url(/viewback/nanami.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+    padding-top: 5%;
+    z-index: -9999;
+    opacity: 1;
+    margin-left: 0px;
+}
+.word2{
+    width: 100%;
+    text-align: center;
+    margin-top: 5%;
+    color: rgb(255, 255, 255,0.7);
+}
+
+.picture1{
+    width: 60%;
+    margin-left: 20%;
+    border: 4px solid rgb(255, 255, 255,0.7);;
+    margin-top: -10px;
+    background-size: 100%100%;
+    margin-bottom: -50px;
+}
+.pic1{
+    width: 100%;
+    height: 100%;
+}
+.picture1:hover .pic1{
+    content:url(/reality&virtual/p1r.jpg);
+    display: block;
+    
+}
+.picture2{
+    width: 60%;
+    margin-left: 20%;
+    border: 4px solid rgb(255, 255, 255,0.7);;
+    margin-top: -10px;
+    background-size: 100%100%;
+    margin-bottom: -50px;
+}
+.pic2{
+    width: 100%;
+    height: 100%;
+}
+.picture2:hover .pic2{
+    content:url(/reality&virtual/p2r.jpg);
+    display: block;
+}
+.picture3{
+    width: 60%;
+    margin-left: 20%;
+    border: 4px solid rgb(255, 255, 255,0.7);;
+    margin-top: -10px;
+    background-size: 100%100%;
+    margin-bottom: -50px;
+}
+.pic3{
+    width: 100%;
+    height: 100%;
+}
+.picture3:hover .pic3{
+    content:url(/reality&virtual/p3r.jpg);
+    display: block;
+}
+.picture4{
+    width: 60%;
+    margin-left: 20%;
+    border: 4px solid rgb(255, 255, 255,0.7);;
+    margin-top: -10px;
+    background-size: 100%100%;
+    margin-bottom: -50px;
+}
+.pic4{
+    width: 100%;
+    height: 100%;
+}
+.picture4:hover .pic4{
+    content:url(/reality&virtual/p4r.jpg);
+    display: block;
+}
+
+.picture5{
+    width: 60%;
+    margin-left: 20%;
+    border: 4px solid rgb(255, 255, 255,0.7);;
+    margin-top: -10px;
+    background-size: 100%100%;
+    margin-bottom: -50px;
+}
+.pic5{
+    width: 100%;
+    height: 100%;
+}
+.picture5:hover .pic5{
+    content:url(/reality&virtual/p5r.jpg);
+    display: block;
+}
+.picture6{
+    width: 60%;
+    margin-left: 20%;
+    border: 4px solid rgb(255, 255, 255,0.7);;
+    margin-top: -10px;
+    background-size: 100%100%;
+    margin-bottom: -50px;
+}
+.pic6{
+    width: 100%;
+    height: 100%;
+}
+.picture6:hover .pic6{
+    content:url(/reality&virtual/p6r.jpg);
+    display: block;
+}
+.picture7{
+    width: 60%;
+    margin-left: 20%;
+    border: 4px solid rgb(255, 255, 255,0.7);;
+    margin-top: -10px;
+    background-size: 100%100%;
+    margin-bottom: -50px;
+}
+.pic7{
+    width: 100%;
+    height: 100%;
+}
+.picture7:hover .pic7{
+    content:url(/reality&virtual/p7r.jpg);
+    display: block;
+}
+.picture8{
+    width: 60%;
+    margin-left: 20%;
+    border: 4px solid rgb(255, 255, 255,0.7);;
+    margin-top: -10px;
+    background-size: 100%100%;
+    margin-bottom: -50px;
+}
+.pic8{
+    width: 100%;
+    height: 100%;
+}
+.picture8:hover .pic8{
+    content:url(/reality&virtual/p8r.jpg);
+    display: block;
+}
+.picture9{
+    width: 60%;
+    margin-left: 20%;
+    border: 4px solid rgb(255, 255, 255,0.7);;
+    margin-top: -10px;
+    background-size: 100%100%;
+    margin-bottom: -50px;
+}
+.pic9{
+    width: 100%;
+    height: 100%;
+}
+.picture9:hover .pic9{
+    content:url(/reality&virtual/p9r.jpg);
+    display: block;
+}
+.picture10{
+    width: 60%;
+    margin-left: 20%;
+    border: 4px solid rgb(255, 255, 255,0.7);;
+    margin-top: -10px;
+    background-size: 100%100%;
+    margin-bottom: -50px;
+}
+.pic10{
+    width: 100%;
+    height: 100%;
+}
+.picture10:hover .pic10{
+    content:url(/reality&virtual/p10r.jpg);
+    display: block;
+}
+.picture11{
+    width: 60%;
+    margin-left: 20%;
+    border: 4px solid rgb(255, 255, 255,0.7);;
+    margin-top: -10px;
+    background-size: 100%100%;
+    margin-bottom: -50px;
+}
+.pic11{
+    width: 100%;
+    height: 100%;
+}
+.picture11:hover .pic11{
+    content:url(/reality&virtual/p11r.jpg);
+    display: block;
+}
+.picture12{
+    width: 60%;
+    margin-left: 20%;
+    border: 4px solid rgb(255, 255, 255,0.7);;
+    margin-top: -10px;
+    background-size: 100%100%;
+    margin-bottom: -50px;
+}
+.pic12{
+    width: 100%;
+    height: 100%;
+}
+.picture12:hover .pic12{
+    content:url(/reality&virtual/p12r.jpg);
+    display: block;
+}
+.mgintop{
+    margin-top: -100px;
+}
+.picturebox{
+    width: 95%;
+    height: 550px;
+    margin-top: 50px;
+
+}
+.picturesize{
+    width: 70%;
+    height: 400px;
+    margin-left: 15%;
+    margin-right: -50px;
+    
+}
+.word3{
+    Display: flex;
+}
+.thirty{
+    margin-left: 23%;
+    color: rgb(255, 255, 255,0.7);
+}
+.seven{
+    margin-left: 43%;
+    color: rgb(255, 255, 255,0.7);
+}
+.backgray{
+    font-weight: bold;
+    font-size: larger;
+    background-color: rgb(128, 128, 128,0.2);
+    width: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin-bottom: -50px;
+    margin-left: 0px;
+    
+}
+.word4{
+    width: 60.5%;
+    margin-left: 20%;
+    background-color: rgb(255, 255, 255,0.8);
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.word5{
+    text-align: center;
+    width: 100%;
+}
+.word6{
+    margin-top: 200px;
+}

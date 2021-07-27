@@ -1,4 +1,4 @@
-$('.slider2').slick({
+$('.slider').slick({
     arrows:true,
     infinite: true,
     slidesToShow: 2,
